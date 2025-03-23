@@ -22,7 +22,7 @@ Puedes ejecutarlo con:
 
 ##  Archivo
 
-- [`TETRIS94.BAS`](./TETRIS94.BAS): Código fuente del juego en GW-BASIC.
+- [`LETRIS.BAS`](./LETRIS.BAS): Código fuente del juego en GW-BASIC.
 
 ##  ¿Por qué comparto esto?
 
